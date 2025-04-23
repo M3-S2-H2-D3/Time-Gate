@@ -1,0 +1,36 @@
+body {
+    font-family: 'Tahoma', sans-serif;
+    background: #111;
+    color: #eee;
+    text-align: center;
+    padding: 2rem;
+}
+header h1 {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+    color: #f5c518;
+}
+header p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+.buttons .btn {
+    display: inline-block;
+    margin: 1rem;
+    padding: 1rem 2rem;
+    background: #f5c518;
+    color: #111;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+}
+.buttons .btn:hover {
+    background: #ddd;
+}
+.contact {
+    margin-top: 3rem;
+}
+footer p {
+    margin-top: 4rem;
+    font-size: 0.9rem;
+}
